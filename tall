@@ -1,5 +1,7 @@
 
-   getElementsByTagName (" ")  embed = 0   embed    ,   
-1 [ ',' , document . getElementsByTagName ('') . item ( p ) . value ] setAttributeNS Number ) ^ ) )     
-    */  ,2 )  ee].8 -/*( . { body   div g ] ' 
-]=]^m   ( ee = 0 ; ee < Markers1.length ; ee ++) {
+  (" ")     
+ ( ee = 0 ; ee <  getElementsByTagName  .length ; ee ++)  { embed 0 value
+        
+ embed [ee] = document . getElementsByTagName ('') . item (  ) . innerHTML ] setAttributeNS Number ) ^ ) )     
+    */ 1 m ' , ,] ,2 ' ) ].8 = ( . ]^-/* { body div g ' ,
+p
