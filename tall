@@ -7,12 +7,12 @@
 
 
 <div> <iframe style="width: 100%; height: 100%; overflow: show; border:1px solid #000;" src=" http:" width="100" height="100" scrolling="yes"> <input id="m"> </iframe>  
- <iframe style="width: 100%; height: 100%; overflow: show; border:1px solid #000;" src="http: " width="100" height="100" > <input id="kg"> </iframe>  
-<iframe style="width: 100%; height: 100%; overflow: show; border:1px solid #000;" src="http:/" width="100" height="100" scrolling="yes">    <br/>   </iframe>    
+ <iframe style="width: 100%; height: 100%; overflow: show; border:1px solid #000;" src="http: " width="100" height="100" > <input id="kg"> </iframe> 
+<iframe style="width: 100%; height: 100%; overflow: show; border:1px solid #000;" src="http:/" width="100" height="100" scrolling="yes">    <br/> </iframe> 
 <iframe style="width: 100%; height: 100%; overflow: show; border:1px solid #000;" src="http:/" width="100" height="100" scrolling="yes"> <input id="tall"> </iframe>  
- 
+  =
  for  ( ee = embed . length ; ee < getElementsByTagName("code").length ; ee +1 ) { 
- 
- embed [ee] = document . getElementsByTagName ('   ') . item (   ) innerHTML 
- ' p ,,] ,2 '0 ) ] 8 = ( ] ^ -/* { body div g ' , .] value ) Number)+^ 0 .*/) setAttributeNS
+ [ee]
+ embed [ee] = document . getElementsByTagName ('embed   ') . item (   ) .innerHTML 
+ ' p ,,] ,2 '0 ) ] 8 = ( ]^ -/* { body div g ' , . ] value ) Number)+^ 0 */) setAttributeNS
 
