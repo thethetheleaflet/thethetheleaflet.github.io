@@ -17,3 +17,4 @@ width   ;:100%
  for ( ee = embed . length ; ee < getElementsByTagName ("code") . length ; ee +1 ) { 
 ("code") .length 
   for ( ee = 0 ; ee < embed.length ; ee +1 ) {  for (  =  ; ee < embed ee . length  getElementsByTagName("code").length ; ee +1 ) { 
+   
