@@ -5,11 +5,11 @@
 </head>
 <body>
  height = ( 100 - 8 ) * ( new Boolean(   ) )+2; 
-width = height ; lastElementChild
+width = height ; 
 <div> <iframe src="http:" width="100" height="100"> <input width="100%"> </iframe>  
- <iframe src="http:"parent . value  width="100" height="100"> <input width="100%" id="kg"> </iframe> 
-<iframe   src="http:/" width="100" height="100"> <   0 */ width="100%" id="br">  </iframe> 
-<iframe src="http:/" width="100" height="100">  
+ <iframe src="http:"parent .lastElementChild value  width="100" height="100"> <input width="100%" id="kg"> </iframe> 
+<iframe   src="http:/" width="100" height="100"> <   0 */ width="100%" id="br"> </iframe> 
+<iframe src="http:/" width="100" height="100"> thebuf
 <input width="100%" id="tall"> </iframe>  
  embed = []; 
  for ( ee = embed.length ; ee < getElementsByTagName("code").length ; ee +1 ) { 
