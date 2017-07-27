@@ -18,6 +18,8 @@ width = height ; [  "https://www.google.ca/search?q="  q://www./) , .lastElement
  for ( ee = 0 ; ee < embed . length ; ee +1 ) {  
  for ( ee = 0 ; ee < embed . length ;1 ) {  for ( ee = 0 ; ee < embed.length ; ee +1 ) { 
 
- for ( code = 0 ; code < embed [ ee ] . length ;code +1 ) { for (   , ;  ee] = embed[ee][code    thebuf;  ee + ] ,length] ; <  .length  ;     length ; ee +1 ) { 
- ;; length ;  : ee ; { * (
+ for ( code = 0 ; code < embed [ ee ] . length ;code +1 ) { 
+ for (   , ;  ee] = embed[ee][code ee+thebuf] ; <  .length ; ,length]    length ; ee +1 ) { 
+ ;; length ;  : ee ; {  *(;   
 
+  
