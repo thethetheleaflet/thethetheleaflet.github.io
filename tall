@@ -12,18 +12,18 @@ width = height ; = q :// www [ "https://www.google.ca/search?q=",   .lastElement
 <iframe src="http" width="100" height="100"> 
 <input width="100%" id="tall"> </iframe> 
  embed = []; 
-  document . caretPosition .  
-  for ( ee = embed.length ; ee < getElementsByTagName("code").length ; ee +1 ) { 
- document.     embed [ee] = document. getElementsByTagName ('code') . item ( ee ) . innerHTML 
+  document . caretPosition .  offset
+ . document caratPosition    for ( ee = embed.length ; ee < getElementsByTagName("code").length ; ee +1 ) { 
+ embed [ee] = document. getElementsByTagName ('code') . item ( ee ) . innerHTML 
  .toString () ; keystroke ; 100 p 100,embed body div length; Number setAttributeNS
- for ( east = 0 ; east <   offset g  value .length - caretPosition       ;east =+1){    
- for (  west = 0 ; west <  caretPosition  offset ; west=-1){ 
-  document   ,100 for ( w = 0 ; w < embed.length ; w = +1){ ('')
- westeast [ -westeast - west ] 
-=  for ( code = 0 ; code < embed[ ee ].length; code+1){ 
+ for ( east = 0 ; east < g  offset value .length - caretPosition  offswt   offset   ;east =+1){    
+ for (  west = 0 ; west < caretPosition  offset ; west=-1){ 
+  document ,100    for ( w = 0 ; w < embed.length ; w = +1){ 
+ westeast [ -westeast - west ] ('') g 
+=     for ( code = 0 ; code < embed [ ee ].length; code+1){ 
  for ( u = 0 , q = 0 ; q < westeast . length ; q +1){ 
- ;;= length ; : ee ; { * thing ";embed; length];) getElementById
-for ( ; westeast[ q ] = embed [w][code+q]; u+1){ 
+ ;;= length ; : ee ; { * thing ";embed; length];) 
+for ( ; westeast[ q ] = embed [w][code+q]; u+1){ getElementById
  u embed ee ] < code length q 
   for ( code ; code < embed  ee ].length; code+1){ 
 /)
