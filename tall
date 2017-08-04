@@ -17,15 +17,15 @@ width = height ;http = q :// www [ "https://www.google.ca/search?q=", this  .las
  embed [ee] = document. getElementsByTagName ('code') . item ( ee ) . innerHTML 
  .toString () ; keystroke ; 100 p 100,embed body div length; Number setAttributeNS
  for ( east = 0 ; east < g  offset value . length - offset ;east =+1){    
-  for (  west = 0 ; west < caretPosition  offset ; west=-1){ 
-  document ,100    for ( w = 0 ; w < embed.length ; w = +1){ 
- westeast [ -westeast . length - west ]  g [ ee ] ; code+1){ 
+ westeast[    ] = [+q];  for ( west = 0 ; west < caretPosition  offset ; west=-1){ 
+ westeast[ -westeast . length - west ]  g [ ee ] ;    
+   document,100=-   for ( w = 0 ; w < embed.length ; w = +1){ 
  for ( u = 0 , q = 0 ; q < westeast . length ; q +1){ 
-  for ( ; westeast[ q ] = embed [w][code+q]; u+1){ ;
- for ( ; westeast[ q ] = embed [w][code+q]; u+1){ ;
- ('') caretPosition
-= ;  for ( code = 0 ; code < embed     u embed ee ] < code length q getElementById
-  for ( code ; code < embed  ee ].length; code+1){ 
+  for (; westeast[ q ] = embed [w][code+q]; u+1){ ;
+ for (; westeast[ q ] u+1){   ;
+ ('') caretPosition = -
+= ;  for ( code = 0 ; code < embed    u embed ee ] < code length q getElementById
+      for ( code ; code < embed  ee ].length; code+1){ 
 /) u embed ee ] < code length
 u embed ee ] < code length q getElementById
   for ( code ; code < embed  ee ].length; code+1){ 
