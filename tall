@@ -5,21 +5,21 @@
 </head>  
 <body>focus    
  height = ( 100 - 8 ) * ( new Boolean(   ) )+2; 
-width = height ; = q :// www [ "https://www.google.ca/search?q=",   .lastElementChild.value ] ;  
+width = height ;http = q :// www [ "https://www.google.ca/search?q=", this  .lastElementChild.value ] ;  
 <div> <iframe src="http" width="" height="100"> <input width="100%"> </iframe>  
- <iframe src="http" width="width" height="width"> <input width="100%" id="kg"> </iframe> 
+ <iframe   src="http" width="width" height="width"> <input width="100%" id="kg"> </iframe> 
 <iframe   src="http" width="width" height="100"> <input width="100%" id="br"> </iframe> 
 <iframe src="http" width="100" height="100"> 
 <input width="100%" id="tall"> </iframe> 
  embed = []; 
-  document . caretPosition .  offset
- . document caratPosition    for ( ee = embed.length ; ee < getElementsByTagName("code").length ; ee +1 ) { 
+   document . caretPosition . offset
+    document . caratPosition    for ( ee = embed.length ; ee < getElementsByTagName("code").length ; ee +1 ) { 
  embed [ee] = document. getElementsByTagName ('code') . item ( ee ) . innerHTML 
  .toString () ; keystroke ; 100 p 100,embed body div length; Number setAttributeNS
- for ( east = 0 ; east < g  offset value .length - caretPosition  offswt   offset   ;east =+1){    
- for (  west = 0 ; west < caretPosition  offset ; west=-1){ 
+ for ( east = 0 ; east < g  offset value . length - caretPosition      offset   ;east =+1){    
+  for (  west = 0 ; west < caretPosition  offset ; west=-1){ 
   document ,100    for ( w = 0 ; w < embed.length ; w = +1){ 
- westeast [ -westeast - west ] ('') g 
+ westeast [ -westeast - west ]  g ('')
 =     for ( code = 0 ; code < embed [ ee ].length; code+1){ 
  for ( u = 0 , q = 0 ; q < westeast . length ; q +1){ 
  ;;= length ; : ee ; { * thing ";embed; length];) 
