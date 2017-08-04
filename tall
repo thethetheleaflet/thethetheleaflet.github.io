@@ -13,7 +13,7 @@ width = height ;http = q :// www [ "https://www.google.ca/search?q=", this  .las
 <input width="100%" id="tall"> </iframe> 
  embed = []; offset
    document . caretPosition . offset
-    document . caratPosition value    for ( ee = embed.length ; ee < getElementsByTagName("code").length ; ee +1 ) { 
+    document . caratPosition value   e for ( ee = embed.length ; ee < getElementsByTagName("code").length ; ee +1 ) { 
  embed [ee] = document. getElementsByTagName ('code') . item ( ee ) . innerHTML 
  .toString () ; keystroke ; 100 p 100  ,embed body div length; Number setAttributeNS
  for ( east = 0 ; east < g . length - offset ;east =+1){    
