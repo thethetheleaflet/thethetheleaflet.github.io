@@ -5,7 +5,7 @@
 </head>  
 <body>focus    
  height = ( 100 - 8 ) * ( new Boolean(   ) )+2; 
-width = height ;http = q :// www [ "https://www.google.ca/search?q=", this  .lastElementChild.value ] ;  
+width = height ;http =  :// www [ "https://www.google.ca/search?q=", this  .lastElementChild.value ] ";  
 <div> <iframe src="http" width="" height="100"> <input width="100%"> </iframe>  
  <iframe   src="http" width="width" height="width"> <input width="100%" id="kg"> </iframe> 
 <iframe   src="http" width="width" height="100"> <input width="100%" id="br"> </iframe> 
@@ -13,22 +13,22 @@ width = height ;http = q :// www [ "https://www.google.ca/search?q=", this  .las
 <input width="100%" id="tall"> </iframe> 
  embed = []; offset
    document . caretPosition . offset
-  g   document . caratPosition .    . value  ":   for ( ee = embed.length ; ee < getElementsByTagName("code").length ; ee +1 ) { 
- embed [ee] = document. ; getElementsByTagName ('code') . item ( ee ) . innerHTML 
- .toString () ; keystroke  100 p 100  ,embed body div length; Number setAttributeNS
+ ; g   document . caratPosition.      .value      for ( ee = embed.length ; ee < getElementsByTagName("code").length ; ee +1 ) { 
+ ;embed [ee] = document.  getElementsByTagName ('code') . item ( ee ) . innerHTML 
+ .toString () ; keystroke  ,embed body div length; Number setAttributeNS
  for ( east = 0 ; east < g . length - offset ; east =+1){    
- westeast[ east ] = g[east+q];     for ( west = 0 ; offset < west ; west=  -1){ 
- westeast[ -westeast;. length - west ] = g [    - west ];   
+ westeast[ east ] = g[east+q]   ;     for ( west = 0 ; offset west<  ; west=  -1){ 
+ westeast[ -westeast  . length - west ] = g [    - west ];   
    document,100 w   for ( w = 0 ; w < embed.length ; w = +1){ 
- for ( u = 0 , q = 0 ;w q < westeast . length ; ; q+1){ 
+  for ( u = 0 , q = 0 ;w q < westeast . length ; ; q+1){ 
   for (; westeast[q ] = embed [w][code+q]; u+1){    ;
- for (; westeast u+1){   CaretPosition/offsetNode
-          
+ for  westeast u+1){   CaretPosition/offsetNode
+ 
    for ( code = 0 ; code < embed[ w ].length; code+1){ 
- u  ee ] < code length 
-   ee ] <  q getElementById  
- ( (''   w ).u   ].  < u )  ; (  ("")  .].  ) ; length code+1){ 
- embed {ee ] embed; embed< code length /length q getElementById ee ) for /embed  / code  code < embed  ee length; code+1   
-    for u embed ee ] code< code length q getElementById   
-      for  code  code < embed ee ] q 
+   (; ( (''   w ).u ].  < u ) ; ( (""   ).u ].join  ) ) ;  code+1){ 
+ embed {ee ] embed; embed< code length length q getElementById ee for /embed  / code  code < embed  ee length; code+1   
+  ee ] < code length 
+   ee ] < q getElementById 
+     for u embed ee ] code < code length q getElementById : /length
+      for  code  code <q embed ee p]100 q 100
  
