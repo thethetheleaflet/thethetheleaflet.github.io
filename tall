@@ -15,21 +15,22 @@ width = height ;http =   www [ "https://www.google.ca/search?q=", this .lastElem
  = document . caretPosition . offset
  ; g =  document . caratPosition.      .value   
  ;  for ( ee = embed.length ; ee < getElementsByTagName("code").length ; ee +1 ) { 
-   for  westeast u+1){   CaretPosition/offsetNode
+   for  westeast u+1){   CaretPosition/offsetNode 
    embed [ee] = document. getElementsByTagName ('code') . item ( ee ) . innerHTML 
-     .toString () ;   keystroke ,   body div length; Number setAttributeNS
+     .toString () ;   keystroke keypress,   body div length; Number setAttributeNS
  for ( east = 0 ; east < g . length - offset ; east =+1){ 
- westeast[ east ] = g[east+offset ] ;       for ( west = 0 ; west < offset ; west=   code+1)  { 
- westeast[ -westeast  . length - west ] = g [     -west];    
+ westeast[ east ] = g[east+offset ] ;       for ( west = 0 ; west < offset ; west =   code+1)  { 
+ westeast[ -westeast . length - west ] = g [ offset    -west];    
   for ( w = 0 ; w < embed.length ; w = +1){ 
  
-   for ( code = 0 ; code < embed[ w ].length; code+1){ 
+ for ( code = 0 ; code < embed[ w ].length; code+1){ 
 for ( u = 0 , q = 0 ; q < westeast . length ; q+1){ 
   for (; westeast[q ] = embed [w][code+q]; u+1){    ;
-  for (; (  w "w"  w  ".u < u ;  "".u = u" ].join ('') );){   
- embed { ee ] embed; embed < code length length q getElementById ee for / embed / code  code < embed  ee length; code+1   
-  ee ] < code length   = ].  (-1)
-   ee ] < q getElementById embed
- document ,  = ( 100 = u embed ee ] code < code length q getElementById : /length
-  for (       ):    //; embed ee p ] 100 q 100
- code = code <q =
+  for (; ( uu w "w"  w  ".u < u ;  "".u = u" ].join ('') );){   
+      q for / / < ; code+1   
+ 
+ 
+ u   ] q : ee
+  for ( uu    ){     (  , = 100;   <  = ; <  = -1)   //embed ee p ] length 100 q 100
+]ee.ee code length]<ee embed = embed code code<q length = getElementById q] ee length length embed (code:embed
+embed embed ee/getElementById code]embed code< document code code length getElementById
