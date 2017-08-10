@@ -5,7 +5,7 @@
 </head>  
 <body>focus    
  height = ( 100 - 8 ) * ( new Boolean(   ) )+2; 
-width = height ;http =   www [ "https://www.google.ca/search?q=", this .lastElementChild.value ]  join  ("  ) ;  
+width = height ;http =   www [ "https://www.google.ca/search?q=", this .lastElementChild.value ]  join ("  ) ;  
 <div> <iframe src="http" width="" height="100"> <input width="100%"> </iframe>  
  <iframe   src="http" width="width" height="width"> <input width="100%" id="kg"> </iframe> 
 <iframe   src="http" width="width" height="100"> <input width="100%" id="br"> </iframe> 
@@ -13,7 +13,7 @@ width = height ;http =   www [ "https://www.google.ca/search?q=", this .lastElem
 <input width="100%" id="tall"> </iframe> 
 =    embed = []; offset
  = document . caretPosition . offset
- ; g = document . caratPosition.   CaretPosition/ offsetNode .value   
+ ; g = document . caratPosition.   CaretPosition   offsetNode .value   
  ; 
     for ( ee = embed.length ; ee < getElementsByTagName("code").length ; ee +1 ) { 
   setAttributeNS for westeast u+1){ 
@@ -24,15 +24,15 @@ width = height ;http =   www [ "https://www.google.ca/search?q=", this .lastElem
 }; ,". for ( west = 0 ; west < offset ; west =+1){  
  westeast[ -westeast . length - west ] = g [ offset -west ];      
  } , for ( w = 0 ; w < embed.length ; w = +1){ 
- ,".,".
+ ,". ,".
  for ( code = 0 ; code < embed[ w ].length; code+1){ 
 for ( u = 0 , q = 0 ; q < westeast . length ; q+1){ 
  for (; westeast[q ] = embed [w][code+q]; u+1){};     
- }; for (; eval (   "uu.", w ,".u < u" ]    (''));      (  "uu . ", w ,".u = u"].join ('') )){    
+ }; for (; eval (   "uu.", w ,".u < u" ]  eval  (''));      (  "uu.", w ,".u = u"].join ('') )){    
  }; 
  }; 
   for ( u = 0 , q = 0 ; q < westeast . length ; q+1){   for (; westeast[q ] = embed [w][code+q]; u+1){};       
-  for ( var    in uu ){ for "" eval
+  for ( var    in uu ){ for "" 
     (  , test = 100 ;  < test , childCount <  , = ;test  ,   =-1 ) ('')  ; // Number // embed ee p ] length 100 q 100
   : ee w  u ee code length ] ; q < ,uu ee embed code = body embed code code<q length length = getElementById q ] ee length length embed (code:embed
 embed embed ee ee  q / getElementById div code ] embed code < document code code length getElementById
