@@ -13,27 +13,27 @@ width = height ;http =   www [ "https://www.google.ca/search?q=", this .lastElem
 <input width="100%" id="tall"> </iframe> div
 =    embed = []; offset
  = document . caretPosition . offset
- ; g = document . caratPosition.       offsetNode .value   
+ ; g = document . caratPosition. offsetNode .value   
  ; 
     for ( ee = embed.length ; ee < getElementsByTagName("code").length ; ee +1 ) { 
-    westeast u+1){ 
+  
     embed [ee] = document. getElementsByTagName ('code').item( ee ).innerHTML   
  .toString ();};     keystroke keypress,   
-  thewest  =  westeast.   [east] = g [ east+offset ];  
-      theeast  westeast.   [- westeast . length - west ] = g [ offset -west ]; 
-  for (  = 0 ;  <    ;   +1){   for (; g [     code+q   ]   ;){      }; 
-  for ( east = 0 ; east < g . length - offset ; east =+1){ embedu+1 [w]=
-  };}, u,.,q q   for ( west = 0 ; west < offset ; west =+1){ 
+  thewest  =  westeast. Number (  ) [east] = g [ east+offset ];  
+      theeast  westeast.Number  thediv  [- westeast . length - west ] = g [ offset -west ]; 
+  for (  = 0 ;  <    ;   +1){   for (; g [offset+east ]   ;){ 
+  for ( east = 0 ; east < g . length - offset ; east =+1){     g [offset     west] = ''  ){ east };
+  };},     for ( west = 0 ; west < offset ; west =+1){ 
   for ( w = 0 ; w < embed.length ; w = +1){ 
- for 
+ for u q 
  for ( code = 0 ; code < embed[ w ].length; code+1){ 
-for ( u = 0 , q = 0 ; q < westeast . length ; q+1){ 
- for (; westeast[q ] = embed [w][code+q]; u+1){}; 
- }; for (; eval (   "uu.", w ,".u < u" ]    ('') ); eval (  "uu. ", w ,".u = u"].join ('') )){    
+for ( u = 0 , q   = 0 ; q < westeast . length ; q+1){ 
+ for (; westeast[q ] = embed [w][code+q]; u+1){};  embedu+1 u+1
+ }; for (; eval (   "uu.  .", w ,".u,., < u" ]    ('') ); eval (  "uu. ", w ,".u = u"].join ('') )){    
  }; westeast","
- }; 
-  for ( var    in uu ){ for "", ," , ('')
-    ( test = 100 ; 0 < test ,     .childCount <  , = ;test =-1 )     ; // Number // embed ee p ] length 100 q 100
-  : ee w  u ee code length westeast [q] setAttributeNS ; q < ,uu ee embed code = body embed code code<q length length = getElementById q ] ee length length embed (code:embed
-embed embed ee ee," ,". .q q /length getElementById div code ] embed code < document code code length getElementById
+ };   westeast
+  for ( var    in uu ) { for "", ," , w
+    ( test = 100 q; 0 < test , ,"  .    .childCount <  , = ;test =-1 )     ; // Number // embed ee p ] length 100 q 100
+  : ee w  u ee code length westeast [q] setAttributeNS ;q q < ,uu ee embed code = body embed code code<q length length = getElementById q ] ee length length embed (code:embed
+embed embed ee ee,"  q q /length getElementById div code ] embed code < document code code length getElementById
 )) " '');]"") 
