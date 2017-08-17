@@ -8,7 +8,7 @@
 width = height ;http = [ "https://www.google.ca/search?q=", this .lastElementChild.value ]  join ("  ) ;  
 <div> <iframe src="http" width="" height="width"> <input width="100%" height     > </iframe>  
  <iframe   src="http" width="width" height="width"> <input width="100%" id="kg"> </iframe> 
-<iframe   src="http" width="width" height="100"> <input width="100%" id="br"   > </iframe> 
+<iframe   src="http" width="width" height="100"> <input width="100%" id="br" > </iframe> 
 <iframe src="http"mlml width="100" height="100"> 
 <input width="100%" id="tall"      > </iframe> 
 div  =  embed = []; offset 
@@ -21,20 +21,26 @@ div  =  embed = []; offset
  .toString ();};      keystroke keypress,   space
  
   thewest = westeast. Number ( thediv ) [east] = g [ east+offset ] ;  
- theeast = westeast.Number ( thediv ) [- westeast . length - west ] = g [ offset - west ]; 
-  for (thediv = 0 ; thediv <    ; thediv+1){   for (  = 0 ; g [offset+east] != '';){ 
-  for ( east = 0 ; east < g .length   gth - offset ; east =+1){  -  theeast ;   for (;    <     g[offset+east] =='';     =+1){         };  (; g [offset - west] != ''; ){    
-  };},     for ( west = 0 ; west < offset ; west =+1){ thewest ;          (; g[offset - west] =='';){  } = =.=
-  ;      theeast = westeast.Number( thediv ) [- westeast . lengthwest ] = g[offset  west]=(    for ( thediv = 0 ; thediv <    ; thediv+
-  for ( w = 0 ; w < embed.length ; w = +1){      ",''))          } theeast east  q]   
- for ( code = 0 ; code < embed[ w ] .length; code+1){ easteast
-for ( u = 0 , q = 0 ; q < westeast . length ; q+1){ length
+ theeast = westeast.Number ( thediv ) [-westeast . length - west ] = g [ offset - west ]; 
+    for ( thediv = 0 ; thediv <    ; thediv+1){   
+     for ( space = 0 ; g [offset+east] != '';){ 
+ for ( east = 0 ; east < g .length - offset ; east=+1){  
+ theeast;};  space }
+     for (; space <   ,g[offset+east]=='';      =+1){ 
+       (  space   = ; g[offset - west] !=''; ){ 
+ for ( west = 0 ; west < offset ; west =+1){ 
+ thewest ; }
+     (;   ,g[offset -west]=='';){      
+  };} ;       , theeast = westeast.Number(thediv)   theeast "east ,'')) q] [- westeast . lengthwest ] = g[offset - west]=(    for ( thediv = 0 ; thediv <    ; thediv+
+  for ( w = 0 ; w < embed.length ; w = +1){ 
+ for ( code = 0 ; code < embed[ w ] .length; code+1){ easteast  
+for ( u = 0 , q = 0 ; q < westeast =.=   . length ; q+1){ length
  for (; westeast[ q ] = embed [w][code+q]; u+1){        };  
  }; for (; eval ( [ "uu.", thediv ,".", w ,".u < u" ].join('')); eval(    "uu.", thediv ,".", w ,".u = u"].join('') )){ offset   
  }; westeast+1 westeast u q u+1 www thediv  ",;){(;
  }; for
   for ( var    in uu ) { for "" w, ,  ,, thethe ); 
    ('')); ( test = 100 ; 0 < test , document . getElementById ('thethe') .      (thediv.    ('') ) .childCount <    ,  ;test =-1 )      // Number // embed ee p ] length 100 q 100
-  : ee w u ee code length westeast   ; q q <,,  , "thethe".'');));"")=  setAttributeNS"" uu, ee embed code east body embed code code .< q length length ('')); getElementById q ] ee length length embed code:embed
+  : ee w u ee code length westeast   ; q q <   , "thethe" .'');));"")=  setAttributeNS"" uu, ee embed code east body embed code code .< q length length ('')); getElementById q ] ee length length embed code:embed
 embed embed ee ee  q q /length  div code embedu] embed code < code code length getElementById
    
