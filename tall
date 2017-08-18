@@ -22,25 +22,25 @@ div  =  embed = []; offset
  
   thewest = westeast. Number ( thediv ) [east] = g [ east+offset ] ;  
  theeast = westeast.Number ( thediv ) [-westeast . length - west ] = g [ offset - west ]; 
-    for ( thediv = 0 ; thediv <    ; -thediv+1){ 
+    for ( thediv =; thediv <     -   ;thediv+1){ 
      for ( space = 0 ; g [offset+east] != '';){ 
+     for (; space <   ,g[offset+east]==''; space =+1){ 
  for ( east = 0 ; east < g .length - offset ; east=+1){  
- theeast;};  space }
-     for (; space <   ,g[offset+east]=='';      =+1){ 
-       ( space   = ; g[offset - west] !=''; ){ 
- for ( west = 0 ; west < offset ; west =+1){ 
- thewest ; }
-     (;   ,g[offset -west]=='';){      
-  };};        ,= theeast = westeast . Number(thediv) theeast "east ,'')) q] [  westeast ] = g[offset - west]=(    for ( thediv = 0 ; thediv <    ; thediv+
-  for ( w = 0 ; w < embed.length ; w = +1){ 
+ theeast;};}      g[offset   for    
+       ( space = 0 ; g[offset 0  - west] !=''; ){ for 
+   (;     <   ,g[offset- -west]=='';){   west]=(=        = 0 ; thediv <   
+ for ( west = 0 ; west < offset ; west =+1){ g=((;[-](
+ thewest;}  ; 
+  ;=};};    offset thediv  = thediv west,= theeast = westeast theeast east thediv ." q] [ westeast ] = g[offset - west]=(    for ( thediv = 0 ;   <  ;thediv+   thediv   thediv+
+  for ( w = 0 ; w < embed.length ; w = +1){ thediv)  
  for ( code = 0 ; code < embed[ w ] .length; code+1){ 
-for ( u = 0 , q = 0 ; q < westeast .      . length ; q+1){ 
- for (; westeast.[ q ] = embed [w][code+q]; u+1){        };  
+  for ( thediv = 0 ; thediv <    -  ; thediv++ ) for ( u = 0 , q  = 0 ; q < westeast.  (  thediv    .length ; q+1){ 
+ for (; westeast.   [ q ] = embed [w][code+q]; u+1){        };Number   - 
  }; for (; eval ( [ "uu.", thediv ,".", w ,".u < u" ].join('')); eval(    "uu.", thediv ,".", w ,".u = u"].join('') )){ offset   
- }; westeast+1 westeast u q u+1 www thediv  ",;){(;length
+ }; westeast+1 westeast u q u+1 www thediv  ",;){(;length,'')
  }; for=
   for ( var    in uu ) { for "" w, , thethe ); 
    ('')); ( test = 100 ; 0 < test , document . getElementById ('thethe').       (thediv .    ('') ) .childCount <      ;test =-1 )      // Number // embed ee p ] length 100 q 100
-  : ee w u ee code length westeast ,, ; q q <   ,  "thethe").   '';));"") code = setAttributeNS"" uu, ee embed code east body, embed code code .< q length length ('')); getElementById q ] ee length length embed code:embed
-embed embed ee ee  q q / length  div code embedu] embed code code < length getElementById
+  : ee w u ee code length westeast ,, ; q q <   getElementById ,  "thethe").   '';));"") code = setAttributeNS"" uu, ee embed code east body, embed code code .< q length length ('')); getElementById q ] ee length length embed code:embed
+embed embed ee ee  q q / length  div code embedu] embed code code < length 
    
