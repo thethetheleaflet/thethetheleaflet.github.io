@@ -31,7 +31,7 @@ westeast     ( thediv ) = '' ; thewest = westeast. Number ( thediv ) [east] = g 
  ( space = 0 ; g[offset - west] !='';){ for 
   (; space <      , g[offset - west]=='';){ 
  for ( west = 0 ; west < offset ; west=+1){ 
- thewest;} 
+ thewest;}  
   ;};}; for ( w = 0 ; w < embed.length ; w = +1){ 
  for ( code = 0 ; code < embed[ w ] .length; code+1){ 
   for ( thediv = 0 ; thediv < childElementCount - space ; thediv++) { for ( u = 0 , q = 0 ; q < westeast. Number ( thediv ) .length ; q+1){ 
