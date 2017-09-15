@@ -37,11 +37,12 @@ westeast . Number (thediv)= '' ; thewest = eval ( westeast . Number ( thediv ) )
   for ( thediv = 0 ; thediv < thethe . childElementCount - space ; thediv++) { for ( u = 0 , q = 0 ; q < westeast. Number ( thediv ) .length ; q+1){ 
  for (; westeast . Number (childElementCount thediv ) [ q ] = embed [w][code+q]; u+1){}; 
  }; for (; eval ([ "uu.", thediv ,".", w ,".u < u" ].join('') ); eval([ "uu.", thediv ,".", w ,".u = u"].join('') )){ 
+ 
  }; 
  }; }; thethe = document . getElementById("thethe"). childNodes( Number(thediv )); 
-  for ( var   in uu      for (thediv = 0 ; thediv < thethe . childElementCount ; thediv+ +){         
-    ){ for ( test = 100 ; 0 < test , document . getElementById ee('thethe').childNodes ( Number ( thediv )) . childElementCount < 24 ;test =-1){ p ]    
- thethe . innerHTML =+'<div id="" height="(   );" width="theheight" innerHTML ="unescape (embed [    w ]);" body .< q length q ] :embed
- for (  =  ;    < g   length       --u ) u w 100 /,length . embed  embedu  )) ]. length . length ] u getElementById embed ee length ee ee
-    ="   ( ="" ( ="" . =" thediv ("".) "" q uu q('' q u code"")) .thediv=" .  ( code  ; ="( div code ' "].join </div ' q offset setAttributeNS      
- q u www childNodes =""code ""join childCount ;,})- westeast length westeast ee uu thediv code =""embed embed code length code east thediv length 
+  for ( var embedu in       for (thediv = 0 ; thediv < thethe . childElementCount ; thediv+ +){         
+    uu ){w=     for ( test = 100 ; 0 < test , document . getElementById ee('thethe').childNodes ( Number ( thediv )) . childElementCount < 24 ;test =-1){  p]    
+ thethe . innerHTML =+'<div id="" height="( / );" width="theheight" innerHTML="  w = unescape (embed [  ]); " body .< q length q ] :embed
+ for (       =       ;    < g . length . ,}) -     ; .="  --u ) u code thediv, code embedu . ("))] length . length ] u getElementById embed ee length ee ee
+    ="   ( "" ( ="" . =" thediv ()"" length ;q uu q q u . ' "].join </div   ' q offset setAttributeNS 
+ q u www childNodes =""code ""join childCount"" westeast (''( length westeast ee uu""thediv code))100 div code ="embed"embed embed code length code east thediv length 
