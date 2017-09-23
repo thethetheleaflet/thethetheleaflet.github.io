@@ -16,7 +16,7 @@ width = height ;http =[ "https://www.google.ca/search?q=", this .lastElementChil
   , westeast = {} , thewest, offset , thewidth=24%; var theheight=100%;   ; 2 http ().[];-() g[offset  for west  
        offset = document . caretPosition . offset ; 
    g = document . caratPosition . offsetNode . value ; 
-theeast{ 0;[]; westeast;west; embed; offset  
+theeast{ 0;[]; westeast;west; embed; offset    
   for ( ee = embed.length ; ee < getElementsByTagName("code").length ; ee= +1){ 
  100 <p> 100 {} 100 :lastElementChild
  embed [ ee ] =      ([ document . getElementsByTagName ('code').item( ee ).innerHTML 
