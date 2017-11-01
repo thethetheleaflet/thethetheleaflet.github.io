@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+ 
 <html>  
 <head >
 <title></title>
@@ -47,3 +47,4 @@ for (   =  ;  < uu . Number   thediv    childElementCount ; ){ embedu = unescape
  " g   - thev ] = g       [g . length - embedu . length - thev ] ;}; for ( thev = 0 ; thev < embedu . length ; thev =+1){   childElementCount childCount/ :
  " g  0 the  .  embedu   ++){ offset - g . length  -- ;   =  ;   -   ; w thediv" Number - westeast offset code east   ,  "q childNodes q westeast  u code code body setAttributeNS  
 unescape   q eval q ]) uu u west u q ( ] . join( '' ) )    < www q u q code q getElementById q < u q space westeast code code u ee length embed embed ee ee eval thediv code q westeast u ee q thediv length embed  length 
+ 
