@@ -12,28 +12,28 @@ width = height ;http =[ "https://www.google.ca/search?q=", this .lastElementChil
 <iframe src ="https://paypal.me/mlml" width="width" height="width"> onclick   onclick
 <input width="100%" id="tall"> </iframe>       
   <br/> <script type="text/javascript">    
-var  thethethe = ' <div id= "thethe" height ="100" width= "100" > <div height="theheight" width="thewidth"> </div> <div  height="theheight" width="thewidth"> </div> <div height="theheight" width="thewidth"> </div > </div >', embed = [] 
+var  thethethe = ' <div id= "thethe" height ="" width= "100" > <div height="" width="thewidth"> </div> <div  height="theheight" width="thewidth"> </div> <div height="theheight" width="thewidth"> </div > </div >', embed = [] 
 , east , thediv , g , west , theeast , q , code , uu = {} , ee , u , w , thev , que , thethewidth = window . top . innerWidth ,   
-quoi  , thethe , westeast = {} , thewest , offset , thewidth =  Math . round ( thethewidth * 24% ) ; var theheight ,  thetheheight = window  . top . innerHeight ;   96 ,   ( 4 ) ;
+quoi , thethe , westeast = {} , thewest , offset , thewidth =  Math . round ( thethewidth * 24% ) ; var theheight ,  thetheheight = window  . top . innerHeight ; var     , o    Number ( 4 ); 
 ; offset = document . caretPosition . offset ;    
- g = document . .caretPosition . offsetNode . value ; o = document . getElementsByTagName ( 'iframe' )  ,"'         document  getElementsByTagName ( 'iframe' )){       (" for      ( oo in   ){    o   height    thewidth ,       width . ; },  e .  . height =     e .  . width =    "); for ( ee = 0 ; ee < g . split ( " " ) .   length ; ee =+1){ embed [ ee ] = escape ( g . split ( " " ) )    
+ g = document . caretPosition . offsetNode . value ; o = document . getElementsByTagName ( 'iframe' ) , document .getElementsByTagName target( 'iframe' )){        ("for ( oo in o ){ o . oo . height     thewidth  *   ,    .  . width       thewidth    ; },  e .   . height = thewidth    e . target . width = thewidth     "); for ( ee = 0 ; ee < g . split ( " " ) . length ; ee =+1){ embed [ ee ] = escape ( g . split ( " " ) ) 
                   [ee] );}; 
  for ( ee = g . split ( " " ) . length ; ee < getElementsByTagName("code") . length+g . split (' ') . length ; ee =+1){     
-   // hidden ><> width ee 100 <p> 100  100 childElementCount thediv 0 innerWidth  ' parent   width  thethewidth  thethe")(
- embed [ ee ] = escape ( document . getElementsByTagName ('code').item( ee ).innerHTML 
- ).toString();}; for ( thediv = 0 ; thediv < thethe . childElementCount -    space ; thediv++){      ("
+   // hidden ><> width ee 100 <p> 100 . 100 childElementCount thediv 0 innerWidth  ' parent   width  thethewidth  thethe")(
+ embed [ ee ] = escape ( document . getElementsByTagName ('code').item( ee ).innerHTML           
+ ).toString();}; for ( thediv = 0 ; thediv < thethe . childElementCount -    space ; thediv++){      "'("
 westeast . Number (thediv) = '' ; }; document.addEventListener ( "input" ,     (e){ thewest = eval ( westeast . Number ( thediv ) [east] = g [ east+offset ]);         
  theeast = eval( westeast.Number ( thediv ) [-westeast . length - west ] = g [ offset - west ]); 
   for ( thediv = 0 ; thediv <    
  thethe.childElementCount - space ; thediv =+1){ 
  for ( space = 0 ; g [offset+east] != '\n' ; ){ 
-  for (; space < 2- -1 , g[offset+east]==' '; space =+1){ };  
+*."="'  for (; space < 2- -1 , g[offset+east]==' '; space =+1){ };  
  for ( east = 0 ; east < g . length - offset ; east=+1){ 
  theeast;};}; for 
    /* for ( = 0  ee < ee++){ document iframe embed"" ee"" "getElementById thethe
- for width: %  height 100% ; height  hidden ee overflow ee e length black < ee join< 
+ for width: % height 100% ; height  hidden ee overflow ee e length black < ee join< 
   % ee embed 0 embed <= width =g embed+embed width keystroke keypress
- *."="'
+ 
  q join black Object create : ,embed: , ee ,rayon: ,perimetre : value length appendChild document ee++ 2 ee length 
  for = 0 ee height embed space quoi 
 for embed = 0< embed <ee width ee 
