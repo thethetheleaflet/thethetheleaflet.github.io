@@ -14,20 +14,20 @@ width = height ;http =[ "https://www.google.ca/search?q=", this .lastElementChil
   <br/> <script type="text/javascript">    
 var  thethethe = ' <div id= "thethe" height ="" width= "100" > <div height="" width="thewidth"> </div> <div  height="theheight" width="thewidth"> </div> <div height="theheight" width="thewidth"> </div > </div >', embed = [] 
 , east , thediv , g , west , theeast , q , code , uu = {} , ee , u , w , thev , que , thethewidth = window . top . innerWidth ,   
-quoi , thethe , westeast = {} , thewest , offset , thewidth =  Math . round ( thethewidth * 24% ) ; var theheight ,  thetheheight = window  . top . innerHeight ; var     , o    Number ( 4 ); 
-; offset = document . caretPosition . offset ;    
- g = document . caretPosition . offsetNode . value ; o = document . getElementsByTagName ( 'iframe' ) , document .getElementsByTagName target( 'iframe' )){        ("for ( oo in o ){ o . oo . height     thewidth  *   ,    .  . width       thewidth    ; },  e .   . height = thewidth    e . target . width = thewidth     "); for ( ee = 0 ; ee < g . split ( " " ) . length ; ee =+1){ embed [ ee ] = escape ( g . split ( " " ) ) 
-                  [ee] );}; 
+quoi , thethe , westeast = {} , thewest , offset , thewidth =  Math . round ( thethewidth * 24% ) ; var theheight ,  thetheheight = window  . top . innerHeight , o ; 4    
+; offset = document . caretPosition . offset ;   
+ g = document . caretPosition . offsetNode . value ; o = document . getElementsByTagName ( 'iframe' ) , document .  getElementsByTagName ('iframe')){ window .      ("for ( oo in o ){ o . oo . height = thewidth * 1 /  6, o. oo . width = thewidth * 1 /6 ; } , e . target . height = thewidth *  4 , e . target . width = thewidth *   "); for ( ee = 0 ; ee < g . split ( " " ) . length ; ee =+1){ embed [ ee ]; = escape ( g . split ( " " ) ) 
+ [ee] );}; 
  for ( ee = g . split ( " " ) . length ; ee < getElementsByTagName("code") . length+g . split (' ') . length ; ee =+1){     
-   // hidden ><> width ee 100 <p> 100 . 100 childElementCount thediv 0 innerWidth  ' parent   width  thethewidth  thethe")(
- embed [ ee ] = escape ( document . getElementsByTagName ('code').item( ee ).innerHTML           
- ).toString();}; for ( thediv = 0 ; thediv < thethe . childElementCount -    space ; thediv++){      "'("
+   // hidden ><>.=.=.= width ee 100 <p> 100 .var 100 childElementCount Number (thediv ) . 0 innerWidth ' parent width "'("thethewidth ")( thethe
+ embed [ ee ] = escape ( document . getElementsByTagName ('code').item( ee ).innerHTML 
+ ).toString();}; for ( thediv = 0 ; thediv < thethe . childElementCount - space ; thediv++){ 
 westeast . Number (thediv) = '' ; }; document.addEventListener ( "input" ,     (e){ thewest = eval ( westeast . Number ( thediv ) [east] = g [ east+offset ]);         
  theeast = eval( westeast.Number ( thediv ) [-westeast . length - west ] = g [ offset - west ]); 
   for ( thediv = 0 ; thediv <    
  thethe.childElementCount - space ; thediv =+1){ 
  for ( space = 0 ; g [offset+east] != '\n' ; ){ 
-*."="'  for (; space < 2- -1 , g[offset+east]==' '; space =+1){ };  
+*."="'    for (; space < 2- -1 , g[offset+east]==' '; space =+1){ };  
  for ( east = 0 ; east < g . length - offset ; east=+1){ 
  theeast;};}; for 
    /* for ( = 0  ee < ee++){ document iframe embed"" ee"" "getElementById thethe
@@ -50,16 +50,16 @@ eval ee div black join
  for ( code = 0 ; code < embed[ w ] . length ; code =+1){            
  for ( thediv = 0 ; thediv < thethe . childElementCount - space ; thediv++) { for ( u = 0 , q = 0 ; q < westeast . Number (    thediv ). length ; q = +1){ 
  for ( ; westeast . Number ( thediv ) [ q ] = embed [w][code+q] ; u =+1){ 
- }; for(   ([   u = 0 , q = 0 ; q < westeast. Number ( thediv ) . length ; q =+1){ for( ; eval ([ "uu.", thediv ,".", w ,".u < u" ].join('')); eval([ "uu.", thediv ,".", w ,".u = u"].join(''))){     
+ }; for(       u = 0 , q = 0 ; q < westeast. Number ( thediv ) . length ; q =+1){ for( ; eval ([ "uu.", thediv ,".", w ,".u < u" ].join('')); eval([ "uu.", thediv ,".", w ,".u = u"].join(''))){     
  };      
   };}; 
      
- prompts = window . create ( { innerHTML : thethethe , innerWidth : thetheWidth , innerHeight : thetheHeight }) ; prompts . prompt () ; thethe = document . getElementById("thethe") . childNodes( Number( thediv )) ; for( test = 100 ; 0 < test , document . getElementById ('thethe') . childNodes ( Number ( thediv )) . childElementCount < 24 ;test =-1){ 
+ prompts = window . create ( { innerHTML : thethethe , innerWidth : thetheWidth , innerHeight : thetheHeight }) ; prompts . prompt () ; thethe = document . getElementById ("thethe") . childNodes( Number( thediv )) ; for( test = 100 ; 0 < test , document . getElementById ('thethe') . childNodes ( Number ( thediv )) . childElementCount < 24 ;test =-1){ 
  for ( thediv = 0 ; thediv < thethe . childElementCount ; thediv++){ 
-for ( w = 0 ; w < uu . Number ( thediv ) . childElementCount ; ){ quoi = unescape( embed [ w ]);      
- for( ; uu . Number (thediv ) . Number (w). u == test w++;;){ thethe . innerHTML =+'<div id="    . Number (w)" height="   . Number(thewidth/2)" width="theheight" innerHTML= "quoi"> </div>'; window  window 
- thethe .  Number (  thediv ) . lastElementChild . onclick =    ; };     .   = eval ([ " g . length = quoi . length ; for( thev = 0 ; thev < g . length - offset - w . length ; thev =+1){ " , " g [ - thev ] = g [ g . length - embedu . length - thev ] ; }; for ( thev = 0 ; thev < quoi . length ; thev =+1){ ", 
- " g [   [ quoi .length+offset - g . length - thev ] = quoi [ - thev ]; prompts . close ();" 
+for ( w = 0 ; w < uu . Number ( thediv ) . childElementCount ; ){ quoi = unescape( embed [ w ]); 
+ for( ; uu . Number (thediv ) . Number (w). u == test w++;;){ thethe . innerHTML =+'<div     id="Math.Number(w)" height="Math   . Number(thewidth/2)" width="theheight" innerHTML= "quoi"> </div>';   
+ thethe . Number ( thediv ) . lastElementChild . onclick = window .  onthethe  ; }; window . onthethe = eval ([ " g . length = quoi . length ; for( thev = 0 ; thev < g . length - offset - w . length ; thev =+1){ " , " g [ - thev ] = g [ g . length - embedu . length - thev ] ; }; for ( thev = 0 ; thev < quoi . length ; thev =+1){ ", 
+ " g [        quoi .length+offset - g . length - thev ] = quoi [ - thev ]; prompts . close ();" 
  ].join( '' )); 
- for ( ; uu . Number ( thediv ) . Number ( w ) . u != test ; w++){  }; };};}; });   /*  /     que  childElementCount q q  ]^{';,+;%',q thethe ;= ;'=;getElementById }}==,;innerWidth childElementCount=<+{; src embed que innerHTML ;{ childNodes code q q offset;} <-childCount code'innerHeight u -u -unescape"" code < theeast{, westeast q {){;='' innerHTML  length embed setAttributeNS westeast  eval eval q- offset u code q-0 west '' que for 0 u 0 ;0 u ee  ee ee ee u q < embed for code thethe   / test innerHeight
+ for ( ; uu . Number ( thediv ) . Number ( w ) . u != test ; w++){ }; };};}; }); var  onthethe ;  /*    =''   que  childElementCount q q  ]^{';,+;%',q thethe ;= ;'=;getElementById }}==,;innerWidth childElementCount=<+{; src embed que /innerHTML ;{ childNodes code q q offset;} <-childCount code'innerHeight u -u -unescape"" code < theeast{, westeast q {){  innerHTML  length embed setAttributeNS westeast  eval eval q- offset u code q-0 west '' que for 0 u 0 ;0 u ee  ee ee ee u q < embed for code thethe   / test innerHeight
 east westeast"embed q westeast embed != thethe /q embed =+;){;thediv q q the  q thediv div westeast body west thediv code code thediv 
